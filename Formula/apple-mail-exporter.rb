@@ -4,7 +4,7 @@ class AppleMailExporter < Formula
   desc "Search and export emails from Apple Mail's local database by keyword"
   homepage "https://github.com/Aayush9029/apple-mail-exporter"
   url "https://github.com/Aayush9029/apple-mail-exporter/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "46924327017c061bbd1e06697e18b2d7d6e249c4da5f7ab0f755412348151463"
+  sha256 "1b432e2fa4789609ed15dcfb45f92e4bca0bacbe531edfc5fd4711384ec48429"
   license "MIT"
 
   depends_on "python@3.12"
