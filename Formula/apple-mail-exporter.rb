@@ -1,17 +1,13 @@
 class AppleMailExporter < Formula
-  include Language::Python::Virtualenv
-
-  desc "Search and export emails from Apple Mail's local database by keyword"
+  desc "Search and export emails from Apple Mail's local database"
   homepage "https://github.com/Aayush9029/apple-mail-exporter"
-  url "https://github.com/Aayush9029/apple-mail-exporter/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "1b432e2fa4789609ed15dcfb45f92e4bca0bacbe531edfc5fd4711384ec48429"
+  url "https://github.com/Aayush9029/apple-mail-exporter/releases/download/v0.2.0/apple-mail-exporter-0.2.0-macos-universal.tar.gz"
+  sha256 "5f4ee47584a4c88aeabbf5a89c3dca8ab5864d3abfd3628a0e0d7f0060a42ca4"
   license "MIT"
-
-  depends_on "python@3.12"
   depends_on :macos
 
   def install
-    virtualenv_install_with_resources
+    bin.install "apple-mail-exporter"
   end
 
   test do
