@@ -13,9 +13,16 @@ brew tap Aayush9029/tap
 | Formula | Description |
 |---------|-------------|
 | `apple-mail-exporter` | Search and export emails from Apple Mail's local database by keyword |
+| `noz` | Prevent Mac from sleeping with lid closed |
 
 ### apple-mail-exporter
 
 ```bash
 brew install apple-mail-exporter
+```
+
+### noz
+
+```bash
+brew install noz
 ```
