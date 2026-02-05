@@ -7,7 +7,7 @@ class Nit < Formula
   depends_on :macos
 
   def install
-    bin.install "nit-0.1.0/nit"
+    bin.install "nit"
   end
 
   test do
