@@ -13,6 +13,7 @@ brew tap Aayush9029/tap
 | Formula | Description |
 |---------|-------------|
 | `apple-mail-exporter` | Search and export emails from Apple Mail's local database by keyword |
+| `findertags` | Read and modify Finder tags from the command line |
 | `nit` | Browse tweets from the terminal via Nitter instances |
 | `noz` | Prevent Mac from sleeping with lid closed |
 
@@ -26,6 +27,12 @@ brew install apple-mail-exporter
 
 ```bash
 brew install nit
+```
+
+### findertags
+
+```bash
+brew install findertags
 ```
 
 ### noz
