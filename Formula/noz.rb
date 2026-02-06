@@ -1,8 +1,8 @@
 class Noz < Formula
   desc "Prevent Mac from sleeping with lid closed"
   homepage "https://github.com/Aayush9029/noz"
-  url "https://github.com/Aayush9029/noz/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "242641bd0cd71e9570dc5aedc81947c9beae472d21bd2f5417a88a2f05ce7592"
+  url "https://github.com/Aayush9029/noz/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "01d063ab083cd2c1d761d05e4024e3a2d72f96c824784b480f969077bee508c4"
   license "MIT"
   depends_on :macos
 
