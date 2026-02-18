@@ -16,6 +16,7 @@ brew tap Aayush9029/tap
 | `findertags` | Read and modify Finder tags from the command line |
 | `nit` | Browse tweets from the terminal via Nitter instances |
 | `noz` | Prevent Mac from sleeping with lid closed |
+| `claude-account-switcher` | Switch Claude Code accounts with directory-aware auto switching |
 
 ### apple-mail-exporter
 
@@ -39,4 +40,10 @@ brew install findertags
 
 ```bash
 brew install noz
+```
+
+### claude-account-switcher
+
+```bash
+brew install claude-account-switcher
 ```
