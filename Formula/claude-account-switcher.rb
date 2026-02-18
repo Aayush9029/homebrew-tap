@@ -9,7 +9,7 @@ class ClaudeAccountSwitcher < Formula
   depends_on "jq"
 
   def install
-    inreplace "bin/ccswitch", "#!/usr/bin/env bash", "#!#{Formula[\"bash\"].opt_bin}/bash"
+    inreplace "bin/ccswitch", "#!/usr/bin/env bash", "#!#{Formula["bash"].opt_bin}/bash"
     bin.install "bin/ccswitch" => "ccswitch"
   end
 
