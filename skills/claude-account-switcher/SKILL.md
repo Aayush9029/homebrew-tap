@@ -1,6 +1,9 @@
 ---
 name: claude-account-switcher
-description: Switch Claude Code accounts with directory-aware auto switching.
+description: >
+  Switch between multiple Claude Code accounts from the terminal with directory-aware auto switching.
+  Use when the user has personal and work Claude accounts, needs to swap API credentials per project,
+  or wants automatic account selection based on the current working directory.
 ---
 
 # claude-account-switcher

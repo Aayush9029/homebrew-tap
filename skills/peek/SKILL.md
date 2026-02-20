@@ -1,6 +1,10 @@
 ---
 name: peek
-description: Describe images from the terminal using vision LLMs.
+description: >
+  Describe images from the terminal using vision LLMs via OpenRouter. Supports multiple models
+  and detail levels (brief, normal, detailed). Use when the user wants to identify, caption,
+  or analyze an image from the command line — screenshots, photos, UI mockups, charts, or any
+  visual content. Can also output just a short name for scripting and piping.
 ---
 
 # peek

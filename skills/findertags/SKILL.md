@@ -1,6 +1,9 @@
 ---
 name: findertags
-description: Read and modify Finder tags from the command line.
+description: >
+  Read, add, remove, replace, and clear macOS Finder tags on files and directories from the command line.
+  Use when the user wants to organize files with color tags, query which tags are on a path, bulk-tag
+  project folders, or list tag frequencies across a directory tree. Works with any Finder-compatible tag.
 ---
 
 # findertags

@@ -1,6 +1,10 @@
 ---
 name: noz
-description: Prevent Mac from sleeping with lid closed.
+description: >
+  Prevent a Mac from sleeping when the lid is closed, with a configurable timeout.
+  Use when the user needs their Mac to stay awake for downloads, long builds, server tasks,
+  or any background work while the laptop lid is shut. Defaults to 45 minutes, supports
+  custom durations, and can be stopped early with Enter.
 ---
 
 # noz

@@ -1,6 +1,10 @@
 ---
 name: apple-mail-exporter
-description: Search and export emails from Apple Mail's local database by keyword.
+description: >
+  Search and export emails from Apple Mail's local database by keyword, sender, or subject.
+  Use when the user wants to find specific emails, export mail archives, or extract messages
+  from Mail.app without opening the GUI. Supports interactive mode, output directory control,
+  and result limiting for bulk exports.
 ---
 
 # apple-mail-exporter
