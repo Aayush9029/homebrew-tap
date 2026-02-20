@@ -2,7 +2,7 @@ class Peek < Formula
   desc "Describe images from the terminal using vision LLMs"
   homepage "https://github.com/Aayush9029/peek"
   url "https://github.com/Aayush9029/peek/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c2b357e39ba9066c4fe23d5a8e58dcc78c631d12bf69526ca7d869855aab8bae"
+  sha256 "62f201f7fa1b723abe92991e60981085fd817b6fff7c495a251be3d716cc3d4e"
   license "MIT"
   depends_on :macos
 
