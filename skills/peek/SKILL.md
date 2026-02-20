@@ -37,10 +37,6 @@ peek chart.png -d brief
 # Just the name, no description
 peek image.png --name-only
 
-# Piped output is tab-separated
-peek image.png | cut -f1    # just the name
-peek image.png | cut -f2    # just the description
-
 # List available models
 peek --list-models
 ```
