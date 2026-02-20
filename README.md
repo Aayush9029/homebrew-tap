@@ -6,7 +6,7 @@ brew tap aayush9029/tap
 
 ---
 
-<a href="https://github.com/Aayush9029/apple-mail-exporter"><img src="assets/apple-mail-exporter.png" width="96" align="left" alt="apple-mail-exporter"></a>
+<a href="https://github.com/Aayush9029/apple-mail-exporter"><img src="assets/apple-mail-exporter.png" width="120" align="left" alt="apple-mail-exporter"></a>
 
 ### [apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter)
 
@@ -20,7 +20,7 @@ brew install aayush9029/tap/apple-mail-exporter
 
 ---
 
-<a href="https://github.com/Aayush9029/findertags"><img src="assets/findertags.png" width="96" align="left" alt="findertags"></a>
+<a href="https://github.com/Aayush9029/findertags"><img src="assets/findertags.png" width="120" align="left" alt="findertags"></a>
 
 ### [findertags](https://github.com/Aayush9029/findertags)
 
@@ -34,7 +34,7 @@ brew install aayush9029/tap/findertags
 
 ---
 
-<a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="96" align="left" alt="nit"></a>
+<a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="120" align="left" alt="nit"></a>
 
 ### [nit](https://github.com/Aayush9029/nit)
 
@@ -48,7 +48,7 @@ brew install aayush9029/tap/nit
 
 ---
 
-<a href="https://github.com/Aayush9029/noz"><img src="assets/noz.png" width="96" align="left" alt="noz"></a>
+<a href="https://github.com/Aayush9029/noz"><img src="assets/noz.png" width="120" align="left" alt="noz"></a>
 
 ### [noz](https://github.com/Aayush9029/noz)
 
@@ -62,7 +62,7 @@ brew install aayush9029/tap/noz
 
 ---
 
-<a href="https://github.com/Aayush9029/peek"><img src="assets/peek.png" width="96" align="left" alt="peek"></a>
+<a href="https://github.com/Aayush9029/peek"><img src="assets/peek.png" width="120" align="left" alt="peek"></a>
 
 ### [peek](https://github.com/Aayush9029/peek)
 
