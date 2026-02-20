@@ -76,7 +76,7 @@ brew install aayush9029/tap/peek
 
 ---
 
-### Skills
+## Skills
 
 This repo also ships [Claude Code skills](https://skills.sh) for each tool.
 
