@@ -12,13 +12,13 @@ Custom Homebrew formulae and [Claude Code skills](https://skills.sh) by [Aayush 
 brew tap aayush9029/tap
 ```
 
-| Formula | Install | Description |
-|---------|---------|-------------|
-| [apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter) | `brew install aayush9029/tap/apple-mail-exporter` | Search and export emails from Apple Mail's local database |
-| [findertags](https://github.com/Aayush9029/findertags) | `brew install aayush9029/tap/findertags` | Read and modify Finder tags from the command line |
-| [nit](https://github.com/Aayush9029/nit) | `brew install aayush9029/tap/nit` | Browse tweets from the terminal via Nitter instances |
-| [noz](https://github.com/Aayush9029/noz) | `brew install aayush9029/tap/noz` | Prevent Mac from sleeping with lid closed |
-| [peek](https://github.com/Aayush9029/peek) | `brew install aayush9029/tap/peek` | Describe images from the terminal using vision LLMs |
+| | Formula | Install | Description |
+|:-:|---------|---------|-------------|
+| <img src="assets/apple-mail-exporter.png" width="40"> | [apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter) | `brew install aayush9029/tap/apple-mail-exporter` | Search and export emails from Apple Mail's local database |
+| <img src="assets/findertags.png" width="40"> | [findertags](https://github.com/Aayush9029/findertags) | `brew install aayush9029/tap/findertags` | Read and modify Finder tags from the command line |
+| <img src="assets/nit.png" width="40"> | [nit](https://github.com/Aayush9029/nit) | `brew install aayush9029/tap/nit` | Browse tweets from the terminal via Nitter instances |
+| <img src="assets/noz.png" width="40"> | [noz](https://github.com/Aayush9029/noz) | `brew install aayush9029/tap/noz` | Prevent Mac from sleeping with lid closed |
+| <img src="assets/peek.png" width="40"> | [peek](https://github.com/Aayush9029/peek) | `brew install aayush9029/tap/peek` | Identify and name images using vision LLMs |
 
 ---
 
