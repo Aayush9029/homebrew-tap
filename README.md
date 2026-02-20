@@ -8,6 +8,19 @@ Custom Homebrew formulae by [Aayush Pokharel](https://github.com/Aayush9029).
 brew tap Aayush9029/tap
 ```
 
+## Skills
+
+This repo also ships [Claude Code skills](https://skills.sh) for each tool.
+
+```bash
+# Install all skills
+npx skills add Aayush9029/homebrew-tap
+
+# Install a specific skill
+npx skills add Aayush9029/homebrew-tap --skill apple-mail-exporter
+npx skills add Aayush9029/homebrew-tap --skill peek
+```
+
 ## Formulae
 
 | Formula | Description |
