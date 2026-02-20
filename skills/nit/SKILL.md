@@ -20,13 +20,19 @@ brew install aayush9029/tap/nit
 
 ```bash
 # Show a user's timeline (default command)
-nit timeline elonmusk
+nit elonmusk
+nit timeline jack
 
 # Show a user's profile info
 nit profile elonmusk
 
 # Search for tweets
 nit search "swift concurrency"
+
+# Limit tweets, JSON output, custom instance
+nit elonmusk --count 5
+nit elonmusk --json
+nit elonmusk --instance https://my-nitter.example.com
 ```
 
 ## Subcommands
@@ -36,3 +42,11 @@ nit search "swift concurrency"
 | `timeline` | Show a user's timeline (default) |
 | `profile` | Show a user's profile info |
 | `search` | Search for tweets (best-effort, may be blocked on some instances) |
+
+## Options
+
+| Flag | Description |
+|------|-------------|
+| `--count <n>` | Maximum number of tweets to display |
+| `--json` | Output as JSON |
+| `--instance <url>` | Custom Nitter instance URL |

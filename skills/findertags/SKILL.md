@@ -22,20 +22,26 @@ brew install aayush9029/tap/findertags
 # Read tags on a file
 findertags read ~/Documents/report.pdf
 
-# Add tags to a file
-findertags add ~/project --tags "Work,Important"
+# Include paths with no tags
+findertags read --verbose ~/Desktop/file.txt ~/Desktop/other.txt
+
+# Add tags (positional args, not flags)
+findertags add ~/project Work Important
 
 # Replace all tags on a file
-findertags write ~/file.txt --tags "Archive"
+findertags write ~/file.txt Archive
 
 # Remove specific tags
-findertags remove ~/file.txt --tags "Draft"
+findertags remove ~/file.txt Draft
 
 # Clear all tags
 findertags clear ~/file.txt
 
 # List tag frequencies across paths
 findertags list ~/Documents
+
+# JSON output
+findertags read --format json ~/Documents/report.pdf
 ```
 
 ## Subcommands

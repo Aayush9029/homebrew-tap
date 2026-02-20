@@ -66,7 +66,7 @@ brew install aayush9029/tap/noz
 
 ### [peek](https://github.com/Aayush9029/peek)
 
-Identify and name images using vision LLMs
+Describe and rename images using vision LLMs
 
 ```
 brew install aayush9029/tap/peek
