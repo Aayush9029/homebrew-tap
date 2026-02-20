@@ -4,38 +4,75 @@
 brew tap aayush9029/tap
 ```
 
-<p align="center">
-  <a href="https://github.com/Aayush9029/apple-mail-exporter"><img src="assets/apple-mail-exporter.png" width="128" alt="apple-mail-exporter"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Aayush9029/findertags"><img src="assets/findertags.png" width="128" alt="findertags"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="128" alt="nit"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Aayush9029/noz"><img src="assets/noz.png" width="128" alt="noz"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Aayush9029/peek"><img src="assets/peek.png" width="128" alt="peek"></a>
-</p>
+---
 
-**[apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter)** — Search and export emails from Apple Mail's local database
+<a href="https://github.com/Aayush9029/apple-mail-exporter"><img src="assets/apple-mail-exporter.png" width="96" align="left" alt="apple-mail-exporter"></a>
+
+### [apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter)
+
+Search and export emails from Apple Mail's local database
+
 ```
 brew install aayush9029/tap/apple-mail-exporter
 ```
 
-**[findertags](https://github.com/Aayush9029/findertags)** — Read and modify Finder tags from the command line
+<br clear="left">
+
+---
+
+<a href="https://github.com/Aayush9029/findertags"><img src="assets/findertags.png" width="96" align="left" alt="findertags"></a>
+
+### [findertags](https://github.com/Aayush9029/findertags)
+
+Read and modify Finder tags from the command line
+
 ```
 brew install aayush9029/tap/findertags
 ```
 
-**[nit](https://github.com/Aayush9029/nit)** — Browse tweets from the terminal via Nitter instances
+<br clear="left">
+
+---
+
+<a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="96" align="left" alt="nit"></a>
+
+### [nit](https://github.com/Aayush9029/nit)
+
+Browse tweets from the terminal via Nitter instances
+
 ```
 brew install aayush9029/tap/nit
 ```
 
-**[noz](https://github.com/Aayush9029/noz)** — Prevent Mac from sleeping with lid closed
+<br clear="left">
+
+---
+
+<a href="https://github.com/Aayush9029/noz"><img src="assets/noz.png" width="96" align="left" alt="noz"></a>
+
+### [noz](https://github.com/Aayush9029/noz)
+
+Prevent Mac from sleeping with lid closed
+
 ```
 brew install aayush9029/tap/noz
 ```
 
-**[peek](https://github.com/Aayush9029/peek)** — Identify and name images using vision LLMs
+<br clear="left">
+
+---
+
+<a href="https://github.com/Aayush9029/peek"><img src="assets/peek.png" width="96" align="left" alt="peek"></a>
+
+### [peek](https://github.com/Aayush9029/peek)
+
+Identify and name images using vision LLMs
+
 ```
 brew install aayush9029/tap/peek
 ```
+
+<br clear="left">
 
 ---
 
