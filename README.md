@@ -78,7 +78,7 @@ brew install aayush9029/tap/peek
 
 ## Skills
 
-This repo also ships [Claude Code skills](https://skills.sh) for each tool.
+This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
