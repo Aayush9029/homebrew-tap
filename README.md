@@ -12,13 +12,21 @@ Custom Homebrew formulae and [Claude Code skills](https://skills.sh) by [Aayush 
 brew tap aayush9029/tap
 ```
 
-| | Formula | Install | Description |
-|:-:|---------|---------|-------------|
-| <img src="assets/apple-mail-exporter.png" width="40"> | [apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter) | `brew install aayush9029/tap/apple-mail-exporter` | Search and export emails from Apple Mail's local database |
-| <img src="assets/findertags.png" width="40"> | [findertags](https://github.com/Aayush9029/findertags) | `brew install aayush9029/tap/findertags` | Read and modify Finder tags from the command line |
-| <img src="assets/nit.png" width="40"> | [nit](https://github.com/Aayush9029/nit) | `brew install aayush9029/tap/nit` | Browse tweets from the terminal via Nitter instances |
-| <img src="assets/noz.png" width="40"> | [noz](https://github.com/Aayush9029/noz) | `brew install aayush9029/tap/noz` | Prevent Mac from sleeping with lid closed |
-| <img src="assets/peek.png" width="40"> | [peek](https://github.com/Aayush9029/peek) | `brew install aayush9029/tap/peek` | Identify and name images using vision LLMs |
+<p align="center">
+  <a href="https://github.com/Aayush9029/apple-mail-exporter"><img src="assets/apple-mail-exporter.png" width="128"></a>
+  <a href="https://github.com/Aayush9029/findertags"><img src="assets/findertags.png" width="128"></a>
+  <a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="128"></a>
+  <a href="https://github.com/Aayush9029/noz"><img src="assets/noz.png" width="128"></a>
+  <a href="https://github.com/Aayush9029/peek"><img src="assets/peek.png" width="128"></a>
+</p>
+
+| Formula | Install |
+|---------|---------|
+| **apple-mail-exporter** — Search and export emails from Apple Mail's local database | `brew install aayush9029/tap/apple-mail-exporter` |
+| **findertags** — Read and modify Finder tags from the command line | `brew install aayush9029/tap/findertags` |
+| **nit** — Browse tweets from the terminal via Nitter instances | `brew install aayush9029/tap/nit` |
+| **noz** — Prevent Mac from sleeping with lid closed | `brew install aayush9029/tap/noz` |
+| **peek** — Identify and name images using vision LLMs | `brew install aayush9029/tap/peek` |
 
 ---
 
