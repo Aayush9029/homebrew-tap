@@ -26,7 +26,6 @@ npx skills add Aayush9029/homebrew-tap --skill peek
 | Formula | Description |
 |---------|-------------|
 | [`apple-mail-exporter`](#apple-mail-exporter) | Search and export emails from Apple Mail's local database by keyword |
-| [`claude-account-switcher`](#claude-account-switcher) | Switch Claude Code accounts with directory-aware auto switching |
 | [`findertags`](#findertags) | Read and modify Finder tags from the command line |
 | [`nit`](#nit) | Browse tweets from the terminal via Nitter instances |
 | [`noz`](#noz) | Prevent Mac from sleeping with lid closed |
@@ -43,18 +42,6 @@ brew install aayush9029/tap/apple-mail-exporter
 ```
 
 > [Source](https://github.com/Aayush9029/apple-mail-exporter)
-
----
-
-### claude-account-switcher
-
-Switch Claude Code accounts with directory-aware auto switching.
-
-```bash
-brew install aayush9029/tap/claude-account-switcher
-```
-
-> [Source](https://github.com/Aayush9029/claude-account-switcher)
 
 ---
 
