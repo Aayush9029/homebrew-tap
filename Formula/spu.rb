@@ -2,7 +2,7 @@ class Spu < Formula
   desc "Check and update Swift package dependencies"
   homepage "https://github.com/Aayush9029/spu"
   url "https://github.com/Aayush9029/spu/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "7a4f337c86862453434cdafbf72a5c2fb8da46fcaaa248788a4cbf17380c89cc"
+  sha256 "991be8ecf5a30283047d9180da07a0979772f91a4c721be730bdf3209983b732"
   license "MIT"
   depends_on :macos
 
