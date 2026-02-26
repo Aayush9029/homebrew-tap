@@ -7,7 +7,14 @@ class Loca < Formula
   depends_on :macos
 
   def install
-    libexec.install "Loca.app"
+    if (buildpath/"Loca.app").directory?
+      cp_r buildpath/"Loca.app", libexec
+    elsif (buildpath/"Contents").directory?
+      (libexec/"Loca.app").mkpath
+      cp_r buildpath.children, libexec/"Loca.app"
+    else
+      odie "Loca.app bundle not found in release archive"
+    end
     (bin/"loca").write_exec_script libexec/"Loca.app/Contents/MacOS/loca"
   end
 
