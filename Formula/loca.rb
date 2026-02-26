@@ -15,7 +15,7 @@ class Loca < Formula
     else
       odie "Loca.app bundle not found in release archive"
     end
-    (bin/"loca").write_exec_script libexec/"Loca.app/Contents/MacOS/loca"
+    bin.install_symlink libexec/"Loca.app/Contents/MacOS/loca" => "loca"
   end
 
   test do
