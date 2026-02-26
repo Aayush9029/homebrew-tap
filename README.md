@@ -20,7 +20,7 @@ brew install aayush9029/tap/apple-mail-exporter
 
 ---
 
-<a href="https://github.com/Aayush9029/bump"><img src="assets/noz.png" width="130" align="left" alt="bump"></a>
+<a href="https://github.com/Aayush9029/bump"><img src="assets/bump.png" width="130" align="left" alt="bump"></a>
 
 ### [bump](https://github.com/Aayush9029/bump)
 
@@ -48,7 +48,7 @@ brew install aayush9029/tap/findertags
 
 ---
 
-<a href="https://github.com/Aayush9029/loca"><img src="assets/noz.png" width="130" align="left" alt="loca"></a>
+<a href="https://github.com/Aayush9029/loca"><img src="assets/loca.png" width="130" align="left" alt="loca"></a>
 
 ### [loca](https://github.com/Aayush9029/loca)
 
