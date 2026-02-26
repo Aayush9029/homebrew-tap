@@ -1,8 +1,8 @@
 class Loca < Formula
   desc "Get your Mac's current location from the terminal"
   homepage "https://github.com/Aayush9029/loca"
-  url "https://github.com/Aayush9029/loca/releases/download/v0.1.1/loca-0.1.1-universal-macos.tar.gz"
-  sha256 "a70e1922caa2d52afbb0d8315afdc57de986912a34b46ffd5b7fbd6b43528816"
+  url "https://github.com/Aayush9029/loca/releases/download/v0.1.2/loca-0.1.2-universal-macos.tar.gz"
+  sha256 "1cb48120ccd1257b65770036f3394617025f0befb7cf88f9a0f7ef90953f169c"
   license "MIT"
   depends_on :macos
 
