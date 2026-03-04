@@ -2,7 +2,7 @@ class Hn < Formula
   desc "Browse Hacker News from the terminal"
   homepage "https://github.com/Aayush9029/hn"
   url "https://github.com/Aayush9029/hn/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d931a2e722cd94cb1569cf03ceef42bf2e74de2b77403261e49490139fc5ca0d"
+  sha256 "906b398a4b27d0db72cde4db2aaeae7f86371f45fd13fd300b1c87890d0e3dd3"
   license "MIT"
   depends_on "go" => :build
 
