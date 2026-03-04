@@ -2,8 +2,7 @@
 name: tmail
 description: >
   Disposable email in your terminal. Use when the user needs a temporary email address,
-  wants to check a disposable inbox, read messages, or watch for incoming emails in
-  real-time from the command line.
+  wants to check a disposable inbox, or read messages from the command line.
 ---
 
 # tmail
@@ -21,9 +20,7 @@ brew install aayush9029/tap/tmail
 | Command | Description |
 |---------|-------------|
 | `generate, g` | Create new disposable email |
-| `messages, m` | List inbox messages |
-| `read, r <n>` | Read message (`--plain`, `--browser`) |
-| `watch, w` | Real-time notifications |
+| `messages, m` | List inbox (interactive TUI, opens in Safari) |
+| `read, r <n>` | Read message (`--browser` to open in Safari) |
 | `me` | Show account info |
 | `delete, d` | Delete account |
-| `domains` | List available domains |
