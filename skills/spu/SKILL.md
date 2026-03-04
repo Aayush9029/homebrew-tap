@@ -16,22 +16,6 @@ Check and update Swift package dependencies from the command line.
 brew install aayush9029/tap/spu
 ```
 
-## Usage
-
-```bash
-# Check current directory
-spu
-
-# Check a specific project
-spu ~/project
-
-# Show table only (no prompt)
-spu --check
-
-# Find and update all Package.swift files recursively
-spu --all
-```
-
 ## Options
 
 | Flag | Description |

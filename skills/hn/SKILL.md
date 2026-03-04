@@ -16,24 +16,6 @@ Browse Hacker News from the terminal — CLI + interactive TUI.
 brew install aayush9029/tap/hn
 ```
 
-## Usage
-
-```bash
-# List stories from a feed
-hn top 10
-hn new 20
-hn ask
-
-# View a thread with comments
-hn thread 12345678
-
-# Search stories
-hn search "rust lang"
-
-# Interactive TUI
-hn -i
-```
-
 ## Options
 
 | Flag | Description |

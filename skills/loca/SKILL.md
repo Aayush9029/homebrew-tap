@@ -3,8 +3,7 @@ name: loca
 description: >
   Get the current Mac location from the terminal with CoreLocation. Use when the user
   needs latitude/longitude, JSON output for scripting, or a quick status check for
-  macOS Location Services and permission state. If CoreLocation is unavailable,
-  loca falls back to IP-based city-level location automatically.
+  macOS Location Services and permission state.
 ---
 
 # loca
@@ -15,22 +14,6 @@ Get your Mac's current location from the terminal.
 
 ```bash
 brew install aayush9029/tap/loca
-```
-
-## Usage
-
-```bash
-# Get current location (text output)
-loca
-
-# JSON output
-loca --json
-
-# Check permission/service state only
-loca --status
-
-# Custom timeout and accuracy (CoreLocation path)
-loca --timeout 30 --accuracy best
 ```
 
 ## Options

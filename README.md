@@ -136,7 +136,7 @@ brew install aayush9029/tap/spu
 
 ### [tmail](https://github.com/Aayush9029/tmail)
 
-Disposable email in your terminal — powered by mail.tm
+Disposable email in your terminal
 
 ```
 brew install aayush9029/tap/tmail

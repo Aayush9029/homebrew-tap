@@ -1,15 +1,14 @@
 ---
 name: peek
 description: >
-  Describe and rename images from the terminal using vision LLMs via OpenRouter. Supports multiple
-  models, detail levels (brief, normal, detailed), and directory batch renaming with parallel jobs.
-  Use when the user wants to describe, rename, or analyze images from the command line — single files
-  or entire directories. Can also output just a short name for scripting and piping.
+  Describe and rename images from the terminal using vision LLMs via OpenRouter.
+  Use when the user wants to describe or analyze images from the command line — single files
+  or entire directories. Describe-only by default; use --rename to also rename files.
 ---
 
 # peek
 
-Describe and rename images from the terminal using vision LLMs via OpenRouter.
+Describe images from the terminal using vision LLMs via OpenRouter.
 
 Requires `OPENROUTER_API_KEY` environment variable.
 
@@ -17,39 +16,6 @@ Requires `OPENROUTER_API_KEY` environment variable.
 
 ```bash
 brew install aayush9029/tap/peek
-```
-
-## Usage
-
-```bash
-# Describe a single image
-peek photo.png
-
-# Detailed description with larger model
-peek shot.png -m qwen72b -d detailed
-
-# With context hint
-peek ui.png -c "iOS settings screen"
-
-# Brief description
-peek chart.png -d brief
-
-# Just the name, no description
-peek image.png --name-only
-
-# List available models
-peek --list-models
-```
-
-## Directory Mode
-
-Pass a directory to batch-rename files using vision. Rename and timestamp context are enabled by default.
-
-```bash
-peek ./screenshots                    # rename all images in dir
-peek ./screenshots --no-rename        # describe only, no rename
-peek ./images -r -j 4                 # parallel recursive
-peek ./photos --no-timestamp-context  # skip timestamp/neighbor context
 ```
 
 ## Options
@@ -63,5 +29,5 @@ peek ./photos --no-timestamp-context  # skip timestamp/neighbor context
 | `--list-models` | List supported models | |
 | `-r, --recursive` | Recurse into subdirectories | |
 | `-j, --jobs <n>` | Parallel jobs | `1` |
-| `--no-rename` | Don't rename files (describe only) | |
+| `--rename` | Rename files based on description | |
 | `--no-timestamp-context` | Skip timestamp/neighbor context | |
