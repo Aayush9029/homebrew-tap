@@ -16,6 +16,12 @@ class Imsg < Formula
     generate_completions_from_executable(bin/"imsg", "--generate-completion-script", shell_parameter_format: :none)
   end
 
+  def post_install
+    bundle = opt_bin/"PhoneNumberKit_PhoneNumberKit.bundle"
+    linked_bundle = HOMEBREW_PREFIX/"bin/PhoneNumberKit_PhoneNumberKit.bundle"
+    ln_sf bundle, linked_bundle if bundle.exist?
+  end
+
   test do
     assert_match version.to_s, shell_output("#{bin}/imsg --version")
   end
