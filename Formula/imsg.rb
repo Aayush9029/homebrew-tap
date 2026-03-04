@@ -1,8 +1,8 @@
 class Imsg < Formula
-  desc "CLI for Apple Messages.app — send and receive iMessages from the terminal"
-  homepage "https://github.com/steipete/imsg"
-  url "https://github.com/steipete/imsg/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "38a1a12d39891347378aa16b0e8717b1f91422b6dc36835feb7ad58ac3975856"
+  desc "Human-first Messages.app CLI with contact-aware chat output"
+  homepage "https://github.com/Aayush9029/imsg"
+  url "https://github.com/Aayush9029/imsg/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "042490026e1ab6ba97276141bfe3d0f3492d6d82d40f1824acb84e33c44ca860"
   license "MIT"
 
   depends_on :macos
@@ -11,6 +11,7 @@ class Imsg < Formula
   def install
     system "swift", "build", "-c", "release", "--disable-sandbox"
     bin.install ".build/release/imsg"
+    generate_completions_from_executable(bin/"imsg", "--generate-completion-script", shell_parameter_format: :none)
   end
 
   test do
