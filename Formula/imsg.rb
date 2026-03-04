@@ -11,6 +11,8 @@ class Imsg < Formula
   def install
     system "swift", "build", "-c", "release", "--disable-sandbox"
     bin.install ".build/release/imsg"
+    resource_bundle = Dir[".build/**/PhoneNumberKit_PhoneNumberKit.bundle"].first
+    bin.install resource_bundle if resource_bundle
     generate_completions_from_executable(bin/"imsg", "--generate-completion-script", shell_parameter_format: :none)
   end
 
