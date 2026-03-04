@@ -48,6 +48,20 @@ brew install aayush9029/tap/findertags
 
 ---
 
+<a href="https://github.com/Aayush9029/hn"><img src="assets/noz.png" width="130" align="left" alt="hn"></a>
+
+### [hn](https://github.com/Aayush9029/hn)
+
+Browse Hacker News from the terminal — CLI + interactive TUI
+
+```
+brew install aayush9029/tap/hn
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/loca"><img src="assets/loca.png" width="130" align="left" alt="loca"></a>
 
 ### [loca](https://github.com/Aayush9029/loca)
