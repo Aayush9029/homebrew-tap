@@ -1,8 +1,8 @@
 class Imsg < Formula
   desc "Human-first Messages.app CLI with contact-aware chat output"
   homepage "https://github.com/Aayush9029/imsg"
-  url "https://github.com/Aayush9029/imsg/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "042490026e1ab6ba97276141bfe3d0f3492d6d82d40f1824acb84e33c44ca860"
+  url "https://github.com/Aayush9029/imsg/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "add855c029afd525169f0069f03ed679072b166cb20e2bb0b42c206d42b6d29f"
   license "MIT"
 
   depends_on :macos
