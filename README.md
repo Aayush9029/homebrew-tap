@@ -132,11 +132,25 @@ brew install aayush9029/tap/spu
 
 ---
 
+<a href="https://github.com/Aayush9029/tmail"><img src="assets/noz.png" width="130" align="left" alt="tmail"></a>
+
+### [tmail](https://github.com/Aayush9029/tmail)
+
+Disposable email in your terminal — powered by mail.tm
+
+```
+brew install aayush9029/tap/tmail
+```
+
+<br clear="left">
+
+---
+
 ## Skills
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `findertags`, `loca`, `nit`, `noz`, `peek`, `spu`.
+Available skills: `apple-mail-exporter`, `bump`, `findertags`, `hn`, `loca`, `nit`, `noz`, `peek`, `spu`, `tmail`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
