@@ -1,8 +1,8 @@
 class Watts < Formula
   desc "Background battery and power logger for macOS"
   homepage "https://github.com/Aayush9029/watts"
-  url "https://github.com/Aayush9029/watts/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "27b052d8651d63a6b141429c850e19ba5681fc2603a96d2303606df717f2f985"
+  url "https://github.com/Aayush9029/watts/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "df566584a941c84615c9d03bc867557a6751ddcd0a959f89bd01b44c991a53b9"
   license "MIT"
   depends_on "go" => :build
   depends_on :macos
