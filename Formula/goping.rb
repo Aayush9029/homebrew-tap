@@ -1,8 +1,8 @@
 class Goping < Formula
   desc "Thoughtful ping with a live TUI and better host stats"
   homepage "https://github.com/Aayush9029/goping"
-  url "https://github.com/Aayush9029/goping/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8e85f43114627e3c3f6df5f2e5df7251f7fa88a82302c941c7aada08cc402dda"
+  url "https://github.com/Aayush9029/goping/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "b595ceeacfe4099868f0062863494f5af4b70a8f88a7de3f62e047e116fede46"
   license "MIT"
   depends_on "go" => :build
   depends_on :macos
