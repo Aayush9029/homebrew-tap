@@ -34,6 +34,20 @@ brew install aayush9029/tap/bump
 
 ---
 
+<a href="https://github.com/Aayush9029/doq"><img src="assets/doq.png" width="130" align="left" alt="doq"></a>
+
+### [doq](https://github.com/Aayush9029/doq)
+
+Query Apple developer documentation from your terminal
+
+```
+brew install aayush9029/tap/doq
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/findertags"><img src="assets/findertags.png" width="130" align="left" alt="findertags"></a>
 
 ### [findertags](https://github.com/Aayush9029/findertags)
@@ -132,6 +146,8 @@ brew install aayush9029/tap/spu
 
 ---
 
+<a href="https://github.com/Aayush9029/watts"><img src="assets/watts.png" width="130" align="left" alt="watts"></a>
+
 ### [watts](https://github.com/Aayush9029/watts)
 
 Background battery and power logger for macOS
@@ -162,7 +178,7 @@ brew install aayush9029/tap/tmail
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `findertags`, `hn`, `loca`, `nit`, `noz`, `peek`, `spu`, `tmail`, `watts`.
+Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `hn`, `loca`, `nit`, `noz`, `peek`, `spu`, `tmail`, `watts`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
