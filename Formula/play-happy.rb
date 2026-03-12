@@ -2,7 +2,7 @@ class PlayHappy < Formula
   desc "Celebrate wins with random meme videos and text overlays"
   homepage "https://github.com/Aayush9029/play-happy"
   url "https://github.com/Aayush9029/play-happy/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ad21e166c9df00c2056c7cd13b2511d2acd0a142b3257b9bdd990d6e70aee121"
+  sha256 "32f8250b4abc0ec7850517531f669ac386f45ec36ef1bc891e997d33ca47c93b"
   license "MIT"
   depends_on :macos
   depends_on "mpv"
