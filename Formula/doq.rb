@@ -2,7 +2,7 @@ class Doq < Formula
   desc "Query Apple developer documentation from your terminal"
   homepage "https://github.com/Aayush9029/doq"
   url "https://github.com/Aayush9029/doq/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "568facc31ca05aecb5c1674a0d5057df42cb062dac884b073b976731d244ed3c"
+  sha256 "543fca0cf4cb1bb9471141b7693c0dcb59a19c901aa9d558ab1eae71cd54c28a"
   license "MIT"
 
   depends_on "go" => :build
