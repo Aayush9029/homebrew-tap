@@ -76,6 +76,20 @@ brew install aayush9029/tap/hn
 
 ---
 
+<a href="https://github.com/Aayush9029/icn"><img src="assets/icn.png" width="130" align="left" alt="icn"></a>
+
+### [icn](https://github.com/Aayush9029/icn)
+
+Generate .icon files from SF Symbols for Apple platforms
+
+```
+brew install aayush9029/tap/icn
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/loca"><img src="assets/loca.png" width="130" align="left" alt="loca"></a>
 
 ### [loca](https://github.com/Aayush9029/loca)
