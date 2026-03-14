@@ -2,7 +2,7 @@ class Icn < Formula
   desc "Generate .icon files from SF Symbols for Apple platforms"
   homepage "https://github.com/Aayush9029/icn"
   url "https://github.com/Aayush9029/icn/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f2dd59647f761e924b9bd8303bd942c9e9920ad40a24943e1bb448d798fcfa42"
+  sha256 "879bd69ef67dc5c0b4f0dc860e46e37d0db6f9c76baf98ce752624da7f5dbf70"
   license "MIT"
 
   depends_on :macos
