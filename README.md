@@ -62,7 +62,21 @@ brew install aayush9029/tap/findertags
 
 ---
 
-<a href="https://github.com/Aayush9029/hn"><img src="assets/noz.png" width="130" align="left" alt="hn"></a>
+<a href="https://github.com/Aayush9029/goping"><img src="assets/goping.png" width="130" align="left" alt="goping"></a>
+
+### [goping](https://github.com/Aayush9029/goping)
+
+Thoughtful ping with a live TUI and better host stats
+
+```
+brew install aayush9029/tap/goping
+```
+
+<br clear="left">
+
+---
+
+<a href="https://github.com/Aayush9029/hn"><img src="assets/hn.png" width="130" align="left" alt="hn"></a>
 
 ### [hn](https://github.com/Aayush9029/hn)
 
@@ -146,7 +160,7 @@ brew install aayush9029/tap/peek
 
 ---
 
-<a href="https://github.com/Aayush9029/spu"><img src="assets/noz.png" width="130" align="left" alt="spu"></a>
+<a href="https://github.com/Aayush9029/spu"><img src="assets/spu.png" width="130" align="left" alt="spu"></a>
 
 ### [spu](https://github.com/Aayush9029/spu)
 
@@ -174,7 +188,7 @@ brew install aayush9029/tap/watts
 
 ---
 
-<a href="https://github.com/Aayush9029/tmail"><img src="assets/noz.png" width="130" align="left" alt="tmail"></a>
+<a href="https://github.com/Aayush9029/tmail"><img src="assets/tmail.png" width="130" align="left" alt="tmail"></a>
 
 ### [tmail](https://github.com/Aayush9029/tmail)
 
@@ -192,7 +206,7 @@ brew install aayush9029/tap/tmail
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `hn`, `loca`, `nit`, `noz`, `peek`, `spu`, `tmail`, `watts`.
+Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `goping`, `hn`, `icn`, `loca`, `nit`, `noz`, `peek`, `spu`, `tmail`, `watts`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
