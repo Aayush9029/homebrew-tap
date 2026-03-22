@@ -2,7 +2,7 @@ class Sip < Formula
   desc "Summarize stdin using LLMs"
   homepage "https://github.com/Aayush9029/sip"
   url "https://github.com/Aayush9029/sip/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a25b0510b04e2d90d5f9613d1271c5f1079d0014a5538a3215b78b149ae04727"
+  sha256 "513f990273fe4be95972f21740dc02a5e2b5138146879f5a06d1db8a5f84bcfa"
   license "MIT"
   depends_on :macos
 
