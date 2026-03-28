@@ -1,8 +1,8 @@
 class Nit < Formula
-  desc "Browse tweets from the terminal via Nitter instances"
+  desc "Browse tweets from the terminal via X syndication"
   homepage "https://github.com/Aayush9029/nit"
-  url "https://github.com/Aayush9029/nit/releases/download/v0.1.0/nit-0.1.0-universal-macos.tar.gz"
-  sha256 "5285bb5e758fbf75e173707c074241dbbf7b7286340ace7e52e896041a0c24fc"
+  url "https://github.com/Aayush9029/nit/releases/download/v0.2.0/nit-0.2.0-universal-macos.tar.gz"
+  sha256 "933d8db630bb006ee1c1d71d2388ac2241ab53a9161600d8c917cc761f5a556c"
   license "MIT"
   depends_on :macos
 
