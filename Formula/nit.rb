@@ -2,7 +2,7 @@ class Nit < Formula
   desc "Personal Twitter feed reader for the terminal"
   homepage "https://github.com/Aayush9029/nit"
   url "https://github.com/Aayush9029/nit/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "33baec37fe46b5f91f4a4092d98d4a453a08ce11bc398232c75d6186a0dfe511"
+  sha256 "8a5c04d606a5ffc587c5e6475d20877237737b3ef041416303d1772bd552a468"
   license "MIT"
 
   depends_on "go" => :build
