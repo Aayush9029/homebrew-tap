@@ -2,7 +2,7 @@ class Goping < Formula
   desc "Ping with live stats — like ping but with a persistent stats bar"
   homepage "https://github.com/Aayush9029/goping"
   url "https://github.com/Aayush9029/goping/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "5633ff4dd32a749adeba8d47cc4bc84cab9041cff2a880d7a428cbb4548c471b"
+  sha256 "32697acfc4e5d1f7f23627144092a5c54760829d174df2bcfe5d9e519fd8438c"
   license "MIT"
   depends_on "go" => :build
   depends_on :macos
