@@ -1,8 +1,8 @@
 class Nit < Formula
   desc "Personal Twitter feed reader for the terminal"
   homepage "https://github.com/Aayush9029/nit"
-  url "https://github.com/Aayush9029/nit/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "595db18bf33f08788f1b4720859cfdb4cf73bbac4cecab2392ba0c2279f7cd95"
+  url "https://github.com/Aayush9029/nit/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "55024f576bcbb8a5f45e0db2e2c14ab5352bbb3bc27a73f0f2208d36805c5860"
   license "MIT"
   depends_on :macos
 
