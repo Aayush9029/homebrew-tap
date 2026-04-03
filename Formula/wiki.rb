@@ -2,7 +2,7 @@ class Wiki < Formula
   desc "Search and read Wikipedia from your terminal"
   homepage "https://github.com/Aayush9029/wiki"
   url "https://github.com/Aayush9029/wiki/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "38a948bab23bec9e4d925a6c99b49a256c0f2a224e779bfc8736a4618558382e"
+  sha256 "50f674debc85e08c5a576fc26a8a850b7f3bd12b604d832c06bc5417f6db81ac"
   license "MIT"
 
   depends_on "go" => :build
