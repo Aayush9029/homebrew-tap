@@ -118,6 +118,20 @@ brew install aayush9029/tap/loca
 
 ---
 
+<a href="https://github.com/Aayush9029/meow"><img src="assets/meow.png" width="130" align="left" alt="meow"></a>
+
+### [meow](https://github.com/Aayush9029/meow)
+
+Upload files to catbox.moe & litterbox from the terminal
+
+```
+brew install aayush9029/tap/meow
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="130" align="left" alt="nit"></a>
 
 ### [nit](https://github.com/Aayush9029/nit)
@@ -154,6 +168,20 @@ Describe and rename images using vision LLMs
 
 ```
 brew install aayush9029/tap/peek
+```
+
+<br clear="left">
+
+---
+
+<a href="https://github.com/Aayush9029/sip"><img src="assets/sip.png" width="130" align="left" alt="sip"></a>
+
+### [sip](https://github.com/Aayush9029/sip)
+
+Summarize stdin using LLMs
+
+```
+brew install aayush9029/tap/sip
 ```
 
 <br clear="left">
@@ -202,11 +230,25 @@ brew install aayush9029/tap/tmail
 
 ---
 
+<a href="https://github.com/Aayush9029/wiki"><img src="assets/wiki.png" width="130" align="left" alt="wiki"></a>
+
+### [wiki](https://github.com/Aayush9029/wiki)
+
+Search and read Wikipedia from your terminal
+
+```
+brew install aayush9029/tap/wiki
+```
+
+<br clear="left">
+
+---
+
 ## Skills
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `goping`, `hn`, `icn`, `loca`, `nit`, `noz`, `peek`, `spu`, `tmail`, `watts`.
+Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `goping`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
