@@ -2,7 +2,7 @@ class Meow < Formula
   desc "Upload files to catbox.moe & litterbox from the terminal"
   homepage "https://github.com/Aayush9029/meow"
   url "https://github.com/Aayush9029/meow/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ed02280b2435ac756a4013b4207e0a4f9ff54692a8a2e8d9494b8f2840899c24"
+  sha256 "344cd4dd147e5ce2f693a6c9da575e7ce9176d2be8b1ec9ff0db9101b619ccd3"
   license "MIT"
 
   depends_on "go" => :build
