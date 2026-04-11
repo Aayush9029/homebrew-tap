@@ -76,6 +76,20 @@ brew install aayush9029/tap/goping
 
 ---
 
+<a href="https://github.com/Aayush9029/haze"><img src="assets/haze.png" width="130" align="left" alt="haze"></a>
+
+### [haze](https://github.com/Aayush9029/haze)
+
+Progressive blur, grain, and gradient color overlay for video
+
+```
+brew install aayush9029/tap/haze
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/hn"><img src="assets/hn.png" width="130" align="left" alt="hn"></a>
 
 ### [hn](https://github.com/Aayush9029/hn)
@@ -248,7 +262,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `goping`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `goping`, `haze`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
