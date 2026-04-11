@@ -1,8 +1,8 @@
 class Haze < Formula
   desc "Progressive blur, grain, and gradient color overlay for video"
   homepage "https://github.com/Aayush9029/haze"
-  url "https://github.com/Aayush9029/haze/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2b2a8ca9bd134c0a69eb2b17802d34f61bd915d7b4212a700716db9d566e1c3b"
+  url "https://github.com/Aayush9029/haze/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "17ba566cde89d4e21f8f2251f5048e0a57cdad199e313fef9b6a55bb59dc974f"
   license "MIT"
   depends_on "ffmpeg"
   depends_on :macos
