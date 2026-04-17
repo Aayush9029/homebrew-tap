@@ -1,8 +1,8 @@
 class Pix < Formula
   desc "OpenAI image generation for the terminal — streaming, parallel, stdin-friendly"
   homepage "https://github.com/Aayush9029/pix"
-  url "https://github.com/Aayush9029/pix/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "21de3a7ee1b841d00db67090ce626167b0fa4d49bfab63e19559fdf5c9263c13"
+  url "https://github.com/Aayush9029/pix/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "ed9550164a90b1d2a242e536df3a0e5b8819d59107415825ce4a1e0305321097"
   license "MIT"
 
   depends_on "go" => :build
