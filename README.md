@@ -188,6 +188,20 @@ brew install aayush9029/tap/peek
 
 ---
 
+<a href="https://github.com/Aayush9029/pix"><img src="assets/pix.png" width="130" align="left" alt="pix"></a>
+
+### [pix](https://github.com/Aayush9029/pix)
+
+OpenAI image generation & editing for the terminal — streaming, parallel, image-to-image
+
+```
+brew install aayush9029/tap/pix
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/sip"><img src="assets/sip.png" width="130" align="left" alt="sip"></a>
 
 ### [sip](https://github.com/Aayush9029/sip)
