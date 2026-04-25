@@ -1,8 +1,8 @@
 class Funnelr < Formula
   desc "Expose local web servers with Tailscale Funnel"
   homepage "https://github.com/Aayush9029/funnelr"
-  url "https://github.com/Aayush9029/funnelr/archive/refs/tags/v0.1.11.tar.gz"
-  sha256 "9c9abcdccbaa4e0f9995722dc91b5eaf8ffe9d829ba5eeeb2f60d4748ae5a82d"
+  url "https://github.com/Aayush9029/funnelr/archive/refs/tags/v0.1.12.tar.gz"
+  sha256 "ff6adf67a6b1d682a528bd2a3b86b45ea2d2b67eaf32f246263f0658894e24eb"
   license "MIT"
 
   depends_on "go" => :build
