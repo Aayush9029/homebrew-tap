@@ -62,6 +62,20 @@ brew install aayush9029/tap/findertags
 
 ---
 
+<a href="https://github.com/Aayush9029/funnelr"><img src="assets/funnelr.png" width="130" align="left" alt="funnelr"></a>
+
+### [funnelr](https://github.com/Aayush9029/funnelr)
+
+Expose local web servers with Tailscale Funnel
+
+```
+brew install aayush9029/tap/funnelr
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/goping"><img src="assets/goping.png" width="130" align="left" alt="goping"></a>
 
 ### [goping](https://github.com/Aayush9029/goping)
