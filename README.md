@@ -34,6 +34,20 @@ brew install aayush9029/tap/bump
 
 ---
 
+<a href="https://github.com/Aayush9029/cast"><img src="assets/cast.png" width="130" align="left" alt="cast"></a>
+
+### [cast](https://github.com/Aayush9029/cast)
+
+Stream a video file from your Mac to a Samsung Smart TV
+
+```
+brew install aayush9029/tap/cast
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/doq"><img src="assets/doq.png" width="130" align="left" alt="doq"></a>
 
 ### [doq](https://github.com/Aayush9029/doq)
@@ -290,7 +304,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `doq`, `findertags`, `goping`, `haze`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap

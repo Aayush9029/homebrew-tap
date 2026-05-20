@@ -1,18 +1,18 @@
 class Cast < Formula
-  desc "Cast video files from your Mac to a Samsung Smart TV"
+  desc "Stream a video file from your Mac to a Samsung Smart TV"
   homepage "https://github.com/Aayush9029/cast"
-  url "https://github.com/Aayush9029/cast/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c8213410935db72d7cc2e48017dfb6fdea75ee83a3c3cfa1796f69da6f918ab3"
+  url "https://github.com/Aayush9029/cast/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "3edd38901b44673cc0eb1c46b8a601dc0be85203fb38eaa63a53e5b5a8c75603"
+  license "MIT"
 
   depends_on "go" => :build
-  depends_on "yt-dlp" => :recommended
-  depends_on "ffmpeg" => :recommended
+  depends_on :macos
 
   def install
-    system "go", "build", *std_go_args(output: bin/"cast")
+    system "go", "build", *std_go_args(ldflags: "-s -w -X main.version=#{version}"), "."
   end
 
   test do
-    assert_match "cast - stream", shell_output("#{bin}/cast --help")
+    assert_match version.to_s, shell_output("#{bin}/cast --version")
   end
 end
