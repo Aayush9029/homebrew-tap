@@ -2,7 +2,7 @@ class Cast < Formula
   desc "Stream a video file to a Samsung Smart TV"
   homepage "https://github.com/Aayush9029/cast"
   url "https://github.com/Aayush9029/cast/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "6bda5183be4bf9254e90dadd61088ccebb36da2aaea9453b587d6545b3fd3d55"
+  sha256 "9139ff768f25100299480d084e290a2f6ec223584d9c454f20dcf76444aa1f0a"
   license "MIT"
 
   depends_on "go" => :build
