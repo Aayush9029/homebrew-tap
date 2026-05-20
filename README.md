@@ -38,7 +38,7 @@ brew install aayush9029/tap/bump
 
 ### [cast](https://github.com/Aayush9029/cast)
 
-Stream a video file from your Mac to a Samsung Smart TV
+Stream a video file to a Samsung Smart TV
 
 ```
 brew install aayush9029/tap/cast
