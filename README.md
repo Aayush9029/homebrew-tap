@@ -216,6 +216,20 @@ brew install aayush9029/tap/peek
 
 ---
 
+<a href="https://github.com/Aayush9029/peel"><img src="assets/peel.png" width="130" align="left" alt="peel"></a>
+
+### [peel](https://github.com/Aayush9029/peel)
+
+Remove image backgrounds in the terminal with BiRefNet
+
+```
+brew install aayush9029/tap/peel
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/pix"><img src="assets/pix.png" width="130" align="left" alt="pix"></a>
 
 ### [pix](https://github.com/Aayush9029/pix)
