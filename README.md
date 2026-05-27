@@ -272,6 +272,20 @@ brew install aayush9029/tap/spu
 
 ---
 
+<a href="https://github.com/Aayush9029/strata"><img src="assets/strata.png" width="130" align="left" alt="strata"></a>
+
+### [strata](https://github.com/Aayush9029/strata)
+
+Translate missing Xcode string catalog entries with app-aware context
+
+```
+brew install aayush9029/tap/strata
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/watts"><img src="assets/watts.png" width="130" align="left" alt="watts"></a>
 
 ### [watts](https://github.com/Aayush9029/watts)
@@ -318,7 +332,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
