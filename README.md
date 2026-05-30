@@ -132,6 +132,20 @@ brew install aayush9029/tap/hn
 
 ---
 
+<a href="https://github.com/Aayush9029/huectl"><img src="assets/huectl.png" width="130" align="left" alt="huectl"></a>
+
+### [huectl](https://github.com/Aayush9029/huectl)
+
+Control Philips Hue lights from your terminal
+
+```
+brew install aayush9029/tap/huectl
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/icn"><img src="assets/icn.png" width="130" align="left" alt="icn"></a>
 
 ### [icn](https://github.com/Aayush9029/icn)
@@ -332,7 +346,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
