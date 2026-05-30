@@ -1,8 +1,8 @@
 class Huectl < Formula
   desc "Control Philips Hue lights from your terminal"
   homepage "https://github.com/Aayush9029/huectl"
-  url "https://github.com/Aayush9029/huectl/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "a79b161053dd9b35f12c1c37e27dba8c418af5128b8abd08e5ab857d5c9d8795"
+  url "https://github.com/Aayush9029/huectl/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "b4a8a40b26b775f7b330922a17e7909271718c5d1a0fd761fcfcc2bbc430b5ff"
   license "MIT"
 
   depends_on "go" => :build
