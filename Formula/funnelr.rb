@@ -6,11 +6,17 @@ class Funnelr < Formula
   license "MIT"
 
   depends_on "go" => :build
-  depends_on "tailscale"
   depends_on :macos
 
   def install
     system "go", "build", *std_go_args(ldflags: "-s -w -X main.version=#{version}"), "."
+  end
+
+  def caveats
+    <<~EOS
+      funnelr requires Tailscale. Install the Tailscale app from
+      https://tailscale.com/download or `brew install tailscale`.
+    EOS
   end
 
   test do
