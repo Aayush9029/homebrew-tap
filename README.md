@@ -258,6 +258,20 @@ brew install aayush9029/tap/pix
 
 ---
 
+<a href="https://github.com/Aayush9029/seer"><img src="assets/seer.png" width="130" align="left" alt="seer"></a>
+
+### [seer](https://github.com/Aayush9029/seer)
+
+Extract text from images and PDFs using Apple Vision OCR
+
+```
+brew install aayush9029/tap/seer
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/sip"><img src="assets/sip.png" width="130" align="left" alt="sip"></a>
 
 ### [sip](https://github.com/Aayush9029/sip)
