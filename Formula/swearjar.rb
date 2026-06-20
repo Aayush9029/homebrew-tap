@@ -2,7 +2,7 @@ class Swearjar < Formula
   desc "Terminal swear jar for coding agent transcripts"
   homepage "https://github.com/Aayush9029/swearjar"
   url "https://github.com/Aayush9029/swearjar/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "b86aef8e970b2af947584d456c2cc5d5fcdec62d8a7729385d7188c65dd1cd7f"
   license "MIT"
 
   depends_on "go" => :build
