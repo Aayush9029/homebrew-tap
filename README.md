@@ -314,6 +314,20 @@ brew install aayush9029/tap/strata
 
 ---
 
+<a href="https://github.com/Aayush9029/swearjar"><img src="assets/swearjar.png" width="130" align="left" alt="swearjar"></a>
+
+### [swearjar](https://github.com/Aayush9029/swearjar)
+
+A terminal swear jar for your coding agent transcripts
+
+```
+brew install aayush9029/tap/swearjar
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/watts"><img src="assets/watts.png" width="130" align="left" alt="watts"></a>
 
 ### [watts](https://github.com/Aayush9029/watts)
@@ -360,7 +374,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
