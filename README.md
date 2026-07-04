@@ -188,6 +188,20 @@ brew install aayush9029/tap/meow
 
 ---
 
+<a href="https://github.com/Aayush9029/netscanner-tool"><img src="assets/netscanner.png" width="130" align="left" alt="netscanner"></a>
+
+### [netscanner](https://github.com/Aayush9029/netscanner-tool)
+
+Find open ports on your local network without nmap
+
+```
+brew install aayush9029/tap/netscanner
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/nit"><img src="assets/nit.png" width="130" align="left" alt="nit"></a>
 
 ### [nit](https://github.com/Aayush9029/nit)
@@ -374,7 +388,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
