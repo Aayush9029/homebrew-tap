@@ -1,8 +1,8 @@
 class Netscanner < Formula
   desc "Find open ports on your local network without nmap"
   homepage "https://github.com/Aayush9029/netscanner-tool"
-  url "https://github.com/Aayush9029/netscanner-tool/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "287fe9729bf015aa0d29c6abef2ebd6c9b156878659c275a1998f0b89eca7428"
+  url "https://github.com/Aayush9029/netscanner-tool/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "b9cfb49630a4debba5b0df9e4d2bb9465fa17d235fe5aa7cbb8307bc550abf49"
   license "MIT"
 
   depends_on "go" => :build
