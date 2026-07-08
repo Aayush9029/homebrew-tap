@@ -272,6 +272,20 @@ brew install aayush9029/tap/pix
 
 ---
 
+<a href="https://github.com/Aayush9029/seedr"><img src="assets/seedr.png" width="130" align="left" alt="seedr"></a>
+
+### [seedr](https://github.com/Aayush9029/seedr)
+
+CLI and TUI for seedr.cc cloud torrents — add magnets, watch progress, download from the terminal
+
+```
+brew install aayush9029/tap/seedr
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/seer"><img src="assets/seer.png" width="130" align="left" alt="seer"></a>
 
 ### [seer](https://github.com/Aayush9029/seer)
@@ -388,7 +402,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `seedr`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
