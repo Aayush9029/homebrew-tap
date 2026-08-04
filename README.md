@@ -34,6 +34,20 @@ brew install aayush9029/tap/bump
 
 ---
 
+<a href="https://github.com/Aayush9029/calen"><img src="assets/calen.png" width="130" align="left" alt="calen"></a>
+
+### [calen](https://github.com/Aayush9029/calen)
+
+Manage Apple Calendar and Reminders from the command line
+
+```
+brew install aayush9029/tap/calen
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/cast"><img src="assets/cast.png" width="130" align="left" alt="cast"></a>
 
 ### [cast](https://github.com/Aayush9029/cast)
@@ -402,7 +416,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `seedr`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
+Available skills: `apple-mail-exporter`, `bump`, `calen`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `seedr`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
