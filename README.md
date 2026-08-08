@@ -6,6 +6,20 @@ brew tap aayush9029/tap
 
 ---
 
+<a href="https://github.com/Aayush9029/aads"><img src="assets/aads.png" width="130" align="left" alt="aads"></a>
+
+### [aads](https://github.com/Aayush9029/aads)
+
+Manage Apple Ads campaigns from the terminal
+
+```
+brew install aayush9029/tap/aads
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/apple-mail-exporter"><img src="assets/apple-mail-exporter.png" width="130" align="left" alt="apple-mail-exporter"></a>
 
 ### [apple-mail-exporter](https://github.com/Aayush9029/apple-mail-exporter)
@@ -416,7 +430,7 @@ brew install aayush9029/tap/wiki
 
 This repo also ships [Agent Skills](https://skills.sh) for each tool.
 
-Available skills: `apple-mail-exporter`, `bump`, `calen`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `seedr`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
+Available skills: `aads`, `apple-mail-exporter`, `bump`, `calen`, `cast`, `doq`, `findertags`, `goping`, `haze`, `hn`, `huectl`, `icn`, `loca`, `meow`, `netscanner`, `nit`, `noz`, `peek`, `seedr`, `sip`, `spu`, `strata`, `swearjar`, `tmail`, `watts`, `wiki`.
 
 ```bash
 npx skills add Aayush9029/homebrew-tap
