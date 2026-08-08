@@ -118,6 +118,20 @@ brew install aayush9029/tap/funnelr
 
 ---
 
+<a href="https://github.com/Aayush9029/gads"><img src="assets/gads.png" width="130" align="left" alt="gads"></a>
+
+### [gads](https://github.com/Aayush9029/gads)
+
+Safely query, report on, and change Google Ads accounts
+
+```
+brew install aayush9029/tap/gads
+```
+
+<br clear="left">
+
+---
+
 <a href="https://github.com/Aayush9029/goping"><img src="assets/goping.png" width="130" align="left" alt="goping"></a>
 
 ### [goping](https://github.com/Aayush9029/goping)
