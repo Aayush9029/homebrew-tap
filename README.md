@@ -18,12 +18,14 @@ brew tap aayush9029/tap
 | [Flare](https://github.com/Aayush9029/flare-releases) | Floating quick chat for ChatGPT and other AI providers | `brew install --cask aayush9029/tap/flare` |
 | [GhostMe](https://github.com/Aayush9029/ghostme-releases) | Location simulator for iPhone development devices | `brew install --cask aayush9029/tap/ghostme` |
 | [Key Studio Pro](https://github.com/Aayush9029/keystudiopro-releases) | Neural green screen keyer built on CorridorKey | `brew install --cask aayush9029/tap/key-studio-pro` |
+| [NativeTwitch](https://github.com/Aayush9029/NativeTwitch) | Native Twitch player | `brew install --cask aayush9029/tap/nativetwitch` |
 | [NativeYoutube](https://github.com/Aayush9029/NativeYoutube) | Menu bar YouTube player | `brew install --cask aayush9029/tap/nativeyoutube` |
 | [Omabox](https://github.com/Aayush9029/Omabox) | Run Omarchy in a virtual machine | `brew install --cask aayush9029/tap/omabox` |
 | [OmaSend](https://github.com/Aayush9029/OmaSend) | Encrypted clipboard sharing across devices | `brew install --cask aayush9029/tap/omasend` |
 | [Peeri](https://github.com/Aayush9029/Peeri) | Native torrent client | `brew install --cask aayush9029/tap/peeri` |
 | [Petal](https://github.com/Aayush9029/petal) | Menu bar app for local audio transcription | `brew install --cask aayush9029/tap/petal` |
 | [RingLight](https://github.com/Aayush9029/RingLight) | Menu bar ring light overlay for the screen | `brew install --cask aayush9029/tap/ringlight` |
+| [SeedSim](https://github.com/Aayush9029/SeedSim) | Simulator for SenseCAP Watcher firmware | `brew install --cask aayush9029/tap/seedsim` |
 | [Tack](https://github.com/Aayush9029/Tack) | High-performance sticky notes | `brew install --cask aayush9029/tap/tack` |
 
 ---
