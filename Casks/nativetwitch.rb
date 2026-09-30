@@ -4,7 +4,7 @@ cask "nativetwitch" do
 
   url "https://github.com/Aayush9029/NativeTwitch/releases/download/v#{version}/NativeTwitch-#{version}.dmg"
   name "NativeTwitch"
-  desc "Native Twitch player"
+  desc "Twitch player built with SwiftUI"
   homepage "https://github.com/Aayush9029/NativeTwitch"
 
   livecheck do
