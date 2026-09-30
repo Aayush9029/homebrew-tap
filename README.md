@@ -6,6 +6,26 @@ brew tap aayush9029/tap
 
 ---
 
+## Apps
+
+| App | Description | Install |
+|-----|-------------|---------|
+| [AgentBar](https://github.com/Aayush9029/AgentBar) | Menu bar launcher and manager for AI coding sessions | `brew install --cask aayush9029/tap/agentbar` |
+| [Beam](https://github.com/Aayush9029/beam-issues) | Remote access server for the Beam iPad app | `brew install --cask aayush9029/tap/beam` |
+| [Bolt](https://github.com/Aayush9029/Bolt) | Battery charge limiter | `brew install --cask aayush9029/tap/bolt` |
+| [Crisp](https://github.com/Aayush9029/Crisp) | Menu bar app that fixes AirPods sound quality | `brew install --cask aayush9029/tap/crisp` |
+| [NativeYoutube](https://github.com/Aayush9029/NativeYoutube) | Menu bar YouTube player | `brew install --cask aayush9029/tap/nativeyoutube` |
+| [Omabox](https://github.com/Aayush9029/Omabox) | Run Omarchy in a virtual machine | `brew install --cask aayush9029/tap/omabox` |
+| [OmaSend](https://github.com/Aayush9029/OmaSend) | Encrypted clipboard sharing across devices | `brew install --cask aayush9029/tap/omasend` |
+| [Peeri](https://github.com/Aayush9029/Peeri) | Native torrent client | `brew install --cask aayush9029/tap/peeri` |
+| [Petal](https://github.com/Aayush9029/petal) | Menu bar app for local audio transcription | `brew install --cask aayush9029/tap/petal` |
+| [RingLight](https://github.com/Aayush9029/RingLight) | Menu bar ring light overlay for the screen | `brew install --cask aayush9029/tap/ringlight` |
+| [Tack](https://github.com/Aayush9029/Tack) | High-performance sticky notes | `brew install --cask aayush9029/tap/tack` |
+
+---
+
+## Tools
+
 <a href="https://github.com/Aayush9029/aads"><img src="assets/aads.png" width="130" align="left" alt="aads"></a>
 
 ### [aads](https://github.com/Aayush9029/aads)
