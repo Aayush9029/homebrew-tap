@@ -1,6 +1,6 @@
 cask "flare" do
-  version "0.5.0,55"
-  sha256 "99cfe3769067be03d8421170ea3253c3798e3d15674b3c16178cd0ec23f47384"
+  version "0.5.1,56"
+  sha256 "32be44a8b8bcc3e4e08c029151b0621c11220a72aeaf8488fb74594120560f9e"
 
   url "https://github.com/Aayush9029/Flare/releases/download/v#{version.csv.first}%2B#{version.csv.second}/Flare-#{version.csv.first}.dmg"
   name "Flare"
