@@ -1,11 +1,11 @@
 cask "flare" do
-  version "0.4.1,53"
-  sha256 "d71ba0985b462efcc0efbe76e37acaa047911ce571d05f7f2dc002e0971b0337"
+  version "0.5.0,55"
+  sha256 "99cfe3769067be03d8421170ea3253c3798e3d15674b3c16178cd0ec23f47384"
 
-  url "https://github.com/Aayush9029/flare-releases/releases/download/v#{version.csv.first}%2B#{version.csv.second}/Flare-#{version.csv.first}.dmg"
+  url "https://github.com/Aayush9029/Flare/releases/download/v#{version.csv.first}%2B#{version.csv.second}/Flare-#{version.csv.first}.dmg"
   name "Flare"
   desc "Floating quick chat for ChatGPT and other AI providers"
-  homepage "https://github.com/Aayush9029/flare-releases"
+  homepage "https://github.com/Aayush9029/Flare"
 
   livecheck do
     url :url

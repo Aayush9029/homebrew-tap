@@ -15,7 +15,7 @@ brew tap aayush9029/tap
 | [Bolt](https://github.com/Aayush9029/Bolt) | Battery charge limiter | `brew install --cask aayush9029/tap/bolt` |
 | [Breeze](https://breezemac.com) | Fan control in the menu bar | `brew install --cask aayush9029/tap/breeze` |
 | [Crisp](https://github.com/Aayush9029/Crisp) | Menu bar app that fixes AirPods sound quality | `brew install --cask aayush9029/tap/crisp` |
-| [Flare](https://github.com/Aayush9029/flare-releases) | Floating quick chat for ChatGPT and other AI providers | `brew install --cask aayush9029/tap/flare` |
+| [Flare](https://github.com/Aayush9029/Flare) | Floating quick chat for ChatGPT and other AI providers | `brew install --cask aayush9029/tap/flare` |
 | [GhostMe](https://github.com/Aayush9029/ghostme-releases) | Location simulator for iPhone development devices | `brew install --cask aayush9029/tap/ghostme` |
 | [Key Studio Pro](https://github.com/Aayush9029/keystudiopro-releases) | Neural green screen keyer built on CorridorKey | `brew install --cask aayush9029/tap/key-studio-pro` |
 | [NativeTwitch](https://github.com/Aayush9029/NativeTwitch) | Twitch player built with SwiftUI | `brew install --cask aayush9029/tap/nativetwitch` |
