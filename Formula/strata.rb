@@ -1,8 +1,8 @@
 class Strata < Formula
   desc "Translate missing Xcode string catalog entries with app-aware context"
   homepage "https://github.com/Aayush9029/strata"
-  url "https://github.com/Aayush9029/strata/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "c21aeac2aabd36915acb60df72f7f9ec76e77810933707dc30b455bf6411ce57"
+  url "https://github.com/Aayush9029/strata/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "0288eec79de28fdf23a12a97060cc073028beecc6270623ce7b62202a1d0691d"
   license "MIT"
 
   depends_on "go" => :build
